@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: SkillsInterfaceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.098 s <<< FAILURE! -- in SkillsInterfaceTest
+SkillsInterfaceTest.testSkillOutputFormat -- Time elapsed: 0.057 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not implemented yet
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:38)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:134)
+	at SkillsInterfaceTest.testSkillOutputFormat(skillsInterfaceTest.java:15)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+SkillsInterfaceTest.testSkillInputValidation -- Time elapsed: 0.003 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not implemented yet
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:38)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:134)
+	at SkillsInterfaceTest.testSkillInputValidation(skillsInterfaceTest.java:9)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

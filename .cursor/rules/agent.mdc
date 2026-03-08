@@ -1,0 +1,19 @@
+# Project Chimera Agent Rules
+
+## Project Context
+This is Project Chimera, an autonomous influencer system.
+
+## Prime Directive
+NEVER generate code without checking specs/ first.
+
+## Java-Specific Directives
+- Strictly adhere to Java 21+ idioms
+- Use Records for immutable DTOs
+- Use JUnit 5 for all generated tests
+
+## Traceability
+Explain your plan before writing code
+
+## Skills vs MCP
+- Skills: reusable agent capabilities (e.g., skill_fetch_trends)
+- MCP: external tools (e.g., database connector)
